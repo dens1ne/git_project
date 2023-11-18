@@ -1,2 +1,5 @@
 1. В demo нет шапки, а в локальной ветке master есть, также в ней есть файл readme.
 2. В удалённом репозитории я увидел 3 коммита, не учитывая этот.
+heat added
+Merge remote-tracking branch 'origin/hat'
+hometask + hat
